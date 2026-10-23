@@ -1,0 +1,19 @@
+carrier_id,code,description,amount_eur
+C01,ADR,Dangerous goods handling,63.75
+C01,TAIL_LIFT,Tail-lift delivery,32.29
+C01,RES_DELIV,Residential delivery,28.11
+C02,ADR,Dangerous goods handling,56.15
+C02,TAIL_LIFT,Tail-lift delivery,38.3
+C02,WAITING_HR,Waiting time per hour,42.73
+C03,TAIL_LIFT,Tail-lift delivery,31.55
+C03,WAITING_HR,Waiting time per hour,41.08
+C03,ADR,Dangerous goods handling,63.09
+C04,ADR,Dangerous goods handling,66.74
+C04,TAIL_LIFT,Tail-lift delivery,32.0
+C04,RES_DELIV,Residential delivery,27.51
+C05,WAITING_HR,Waiting time per hour,49.93
+C05,ADR,Dangerous goods handling,54.6
+C05,TAIL_LIFT,Tail-lift delivery,33.27
+C06,WAITING_HR,Waiting time per hour,48.88
+C06,TAIL_LIFT,Tail-lift delivery,37.01
+C06,RES_DELIV,Residential delivery,27.82
